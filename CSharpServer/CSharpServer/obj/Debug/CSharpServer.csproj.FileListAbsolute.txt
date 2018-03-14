@@ -1,0 +1,7 @@
+C:\Users\JJHAN\source\repos\CSharpServer\CSharpServer\bin\Debug\CSharpServer.exe.config
+C:\Users\JJHAN\source\repos\CSharpServer\CSharpServer\bin\Debug\CSharpServer.exe
+C:\Users\JJHAN\source\repos\CSharpServer\CSharpServer\bin\Debug\CSharpServer.pdb
+C:\Users\JJHAN\source\repos\CSharpServer\CSharpServer\obj\Debug\CSharpServer.csprojResolveAssemblyReference.cache
+C:\Users\JJHAN\source\repos\CSharpServer\CSharpServer\obj\Debug\CSharpServer.csproj.CoreCompileInputs.cache
+C:\Users\JJHAN\source\repos\CSharpServer\CSharpServer\obj\Debug\CSharpServer.exe
+C:\Users\JJHAN\source\repos\CSharpServer\CSharpServer\obj\Debug\CSharpServer.pdb

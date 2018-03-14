@@ -1,0 +1,7 @@
+C:\Users\JJHAN\source\repos\CSharpServer\CSharpClient\bin\Debug\CSharpClient.exe.config
+C:\Users\JJHAN\source\repos\CSharpServer\CSharpClient\bin\Debug\CSharpClient.exe
+C:\Users\JJHAN\source\repos\CSharpServer\CSharpClient\bin\Debug\CSharpClient.pdb
+C:\Users\JJHAN\source\repos\CSharpServer\CSharpClient\obj\Debug\CSharpClient.csprojResolveAssemblyReference.cache
+C:\Users\JJHAN\source\repos\CSharpServer\CSharpClient\obj\Debug\CSharpClient.csproj.CoreCompileInputs.cache
+C:\Users\JJHAN\source\repos\CSharpServer\CSharpClient\obj\Debug\CSharpClient.exe
+C:\Users\JJHAN\source\repos\CSharpServer\CSharpClient\obj\Debug\CSharpClient.pdb
